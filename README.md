@@ -52,3 +52,8 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 <p align="center">
   <img src="https://raw.githubusercontent.com/ecrin9334-codee/ecrin9334-codee/output/github-contribution-grid-snake.svg" width="100%">
 </p>
+<h2 align="left">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ecrin9334-code/ecrin9334-code/output/github-contribution-grid-snake.svg" width="100%">
+</p>
