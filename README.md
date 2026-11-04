@@ -53,7 +53,7 @@ Hi! I'm Ecrin! 💗
 
 ୨୧ ─────────────── ୨୧
 
-### 🌸 Thank you for visiting! 🌸
+### 🌸 Thank you for visit! 🌸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:F4A7C5,100:EADCF8&height=120&section=footer" width="100%"/>
 
