@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=180&section=header&fontSize=40&fontColor=ffffff" width="100%"/>
+</div>
 <h1 align="left">Hakkımda 🎀 🐱</h1>
 
 
