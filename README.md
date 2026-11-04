@@ -7,7 +7,6 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 
 <h2 align="left">💻 Teknoloji Altyapısı</h2>
 
-<h3 align="left">🐍 Programlama Dilleri</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -15,13 +14,13 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="left">🌐 Web Teknolojileri</h3>
+
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h3 align="left">🗄️ Veritabanı</h3>
+
 <p align="left">
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
