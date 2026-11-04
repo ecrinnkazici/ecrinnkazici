@@ -1,12 +1,12 @@
 
-<h1 align="left">Hakkımda 🎀 🐱</h1>
+<h1 align="left">About Me 🎀 </h1>
 
 
 Hello! I’m Ecrin. I am a student of Computer Programming at Manisa Celal Bayar University and Artificial Intelligence and Coding at Anadolu University. I have a keen interest in software development, Python, and artificial intelligence. My goal is to continuously learn, improve, and create new projects. 🌸
 
 
 
-<h2 align="left">💻 Teknoloji Altyapısı</h2>
+<h2 align="left">💻 Technology Infrastructure</h2>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
