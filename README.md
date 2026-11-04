@@ -26,7 +26,6 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="left">🛠️ Araçlar ve Teknolojiler</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -35,7 +34,22 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 </p>
 
 
-<h2 align="left">🎀 Have a nice day!</h2>
+## 💌 İletişim
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ecrin-kaz%C4%B1c%C4%B1-5487b9407/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-F4A7C5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+🌸 Thanks for visiting my profile! 🎀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=100&section=footer" width="100%"/>
+
+
+
 
 <p align="left">
 <img src="./images/hello-kitty.gif" width="150" alt="Hello Kitty"/>
