@@ -1,7 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=180&section=header&fontSize=40&fontColor=ffffff" width="100%"/>
-</div>
 <h1 align="left">Hakkımda 🎀 🐱</h1>
 
 
@@ -50,11 +47,3 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=100&section=footer" width="100%"/>
-
-
-
-
-<p align="left">
-<img src="./images/hello-kitty.gif" width="150" alt="Hello Kitty"/>
-</p>
