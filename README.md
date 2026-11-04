@@ -1,68 +1,78 @@
 
-<!-- 🌸 ECRIN'S GITHUB PROFILE 🌸 -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:E8C7F0,100:FCE4EC&height=200&section=header&text=Hi,%20I'm%20Ecrin!%20🎀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=180&section=header&text=Ecrin%20🎀&fontSize=55&fontColor=ffffff" width="100%" />
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="130" />
+
+# 🌸 Merhaba, ben Ecrin!
 
 ### 💗 Computer Programming & AI-Assisted Coding Student
 
-*Learning, coding and creating something new every day!*
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=DB82B5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+🌸;Python+%7C+Software+Development+%7C+AI;Always+learning+and+growing!+💗" />
-
 </div>
 
----
+## 🎀 Hakkımda
 
-## 🎀 About Me
+Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığı ve Anadolu Üniversitesi Yapay Zekâ ve Kodlama öğrencisiyim.
 
-- 🎓 Computer Programming Student at **Manisa Celal Bayar University**
-- 🤖 Studying **Artificial Intelligence and Coding** at Anadolu University
-- 🐍 Interested in Python and software development
-- 🌷 Exploring artificial intelligence and new technologies
-- 💻 Building projects and improving my skills
+Yazılım geliştirme, Python programlama ve yapay zekâ alanlarına ilgi duyuyorum. Kendimi sürekli geliştiriyor, yeni teknolojiler öğreniyor ve projeler üretiyorum. 🌷
 
-## 💻 Tech Stack
+## 💻 Teknoloji Altyapısı
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css,mysql,git,github,docker,vscode&theme=light" />
+### 🌸 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cs,js" />
 </p>
 
-## 🌱 Currently Learning
+### 🎀 Web Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-EADCF8?style=for-the-badge&logo=openai&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Software%20Development-FCE4EC?style=for-the-badge&logo=visualstudiocode&logoColor=DB82B5" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-## 📊 GitHub Statistics
+### 💗 Database & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mssql,git,github,docker,vscode" />
+</p>
+
+## 🌷 Şu Anda Öğreniyorum
+
+- 🐍 Advanced Python
+- 🤖 Artificial Intelligence
+- 💻 Software Development
+
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ecrin9334-code&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ecrin9334-code&show_icons=true&theme=rose_pine&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecrin9334-code&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=ecrin9334-code&theme=rose-pine&hide_border=true&border_radius=15" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecrin9334-code&layout=compact&theme=rose_pine&hide_border=true" />
 
 </div>
 
-## 💌 Connect With Me
+## 🐍 GitHub Katkı Yılanı
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ecrin9334-code/ecrin9334-code/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+## 💌 Benimle Bağlantı Kur
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ecrin-kaz%C4%B1c%C4%B1-5487b9407/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-F4A7C5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-F4A7C5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ecrin9334-code&label=Profile%20Views&color=F4A7C5&style=flat" />
-
-### 🌸 Thanks for visiting my profile! 💗
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:E8C7F0,100:F8BBD0&height=120&section=footer" width="100%" />
+✨ Thanks for visiting my profile! 🎀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=100&section=footer" width="100%" />
