@@ -2,7 +2,7 @@
 <h1 align="left">Hakkımda 🎀 🐱</h1>
 
 
-Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığı ve Anadolu Üniversitesi Yapay Zekâ ve Kodlama öğrencisiyim. Yazılım geliştirme, Python ve yapay zekâ alanlarına ilgi duyuyorum. Sürekli öğrenerek kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum. 🌸
+Hello! I’m Ecrin. I am a student of Computer Programming at Manisa Celal Bayar University and Artificial Intelligence and Coding at Anadolu University. I have a keen interest in software development, Python, and artificial intelligence. My goal is to continuously learn, improve, and create new projects. 🌸
 
 
 
