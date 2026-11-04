@@ -1,59 +1,64 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:F4A7C5,100:EADCF8&height=200&section=header&text=Welcome%20to%20my%20world!&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-# 🎀 Ecrin's Profile 🎀
-
-### ♡ Computer Programming & AI-Assisted Coding Student ♡
-
-୨୧ ─────────────── ୨୧
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=180&section=header&text=Ecrin%20Kazıcı%20🎀&fontSize=40&fontColor=ffffff" width="100%"/>
 
 </div>
 
-## 🌷 About Me
+## Hakkımda 🎀
 
-Hi! I'm Ecrin! 💗
+Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığı ve Anadolu Üniversitesi Yapay Zekâ ve Kodlama öğrencisiyim. Yazılım geliştirme, Python ve yapay zekâ alanlarına ilgi duyuyorum. Sürekli öğrenerek kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum. 🌸
 
-🎀 Computer Programming Student at Manisa Celal Bayar University
+## 💻 Teknoloji Altyapısı
 
-🎀 Artificial Intelligence and Coding Student at Anadolu University
+**Programlama Dilleri**
 
-🌸 Interested in programming, technology and artificial intelligence.
+Python • Java • C# • JavaScript
 
-✨ Always learning something new!
+**Web Teknolojileri**
+
+HTML5 • CSS3
+
+**Veritabanı**
+
+Microsoft SQL Server • MySQL
+
+**Araçlar ve Teknolojiler**
+
+Git • GitHub • Docker • VS Code
+
+## 🌱 Şu Anda Öğreniyorum
+
+Python • Yapay Zekâ • Yazılım Geliştirme
+
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="130"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ecrin9334-code&show_icons=true&theme=rose_pine&hide_border=true" width="90%"/>
 
-୨୧ ─────────────── ୨୧
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecrin9334-code&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
 
-## 🎀 My Little Corner
+## 🐍 GitHub Katkı Tablosu
 
-🌸 Learning new things
+<div align="center">
 
-💗 Creating projects
+<img src="https://raw.githubusercontent.com/ecrin9334-code/ecrin9334-code/output/github-contribution-grid-snake.svg" width="100%"/>
 
-🧸 Exploring the world of technology
+</div>
 
-☁️ Dreaming, creating and improving
-
-## 💌 Let's Connect!
+## 💌 İletişim
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ecrin-kaz%C4%B1c%C4%B1-5487b9407/">
-<img src="https://img.shields.io/badge/LinkedIn-ffc0d9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-F4A7C5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-୨୧ ─────────────── ୨୧
-
-### 🌸 Thank you for visit! 🌸
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:F4A7C5,100:EADCF8&height=120&section=footer" width="100%"/>
+🌸 Thanks for visiting my profile! 🎀
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=100&section=footer" width="100%"/>
