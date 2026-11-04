@@ -34,8 +34,6 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-🌸 Thanks for visiting my profile! 🎀
-
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ecrin9334-code/ecrin9334-code/output/github-contribution-grid-snake.svg" width="100%">
