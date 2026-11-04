@@ -1,6 +1,8 @@
 <h1 align="left">Hakkımda 🎀 🐱</h1>
 
-Merhaba! Ben **Elif Kaynar**, dijital dünyada yenilikçi çözümler üretmeye odaklanmış bir Full Stack Geliştiriciyim. Kodlamaya olan tutkum ve sürekli öğrenme isteğim, her projede becerilerimi geliştirmemi sağlıyor.
+
+Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığı ve Anadolu Üniversitesi Yapay Zekâ ve Kodlama öğrencisiyim. Yazılım geliştirme, Python ve yapay zekâ alanlarına ilgi duyuyorum. Sürekli öğrenerek kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum. 🌸
+
 
 <h2 align="left">💻 Teknoloji Altyapısı</h2>
 
@@ -36,13 +38,7 @@ Merhaba! Ben **Elif Kaynar**, dijital dünyada yenilikçi çözümler üretmeye 
 
 ---
 
-<h2 align="left">📊 GitHub Aktivitem</h2>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_KULLANICI_ADIN&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</p>
-
----
 
 <h2 align="left">🎀 Have a nice day!</h2>
 
