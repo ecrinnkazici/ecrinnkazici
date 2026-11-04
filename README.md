@@ -53,16 +53,6 @@ Hi! I'm Ecrin! 💗
 
 ୨୧ ─────────────── ୨୧
 
-## 💗 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ecrin9334-code&show_icons=true&theme=rose_pine&hide_border=true" width="90%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecrin9334-code&layout=compact&theme=rose_pine&hide_border=true"/>
-
-## 🐍 My Contribution Garden
-
-<img src="https://raw.githubusercontent.com/ecrin9334-code/ecrin9334-code/output/github-contribution-grid-snake.svg" width="100%"/>
-
 ### 🌸 Thank you for visiting! 🌸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:F4A7C5,100:EADCF8&height=120&section=footer" width="100%"/>
