@@ -8,7 +8,7 @@ Manisa Celal Bayar University | Anadolu University
 
 ### Technologies & Tools
 
-- **Languages:** Python, Java, C#, JavaScript
+- **Languages:** Python, Java, SQL, JavaScript
 - **Web:** HTML, CSS
 - **Database:** Microsoft SQL Server
 - **Tools:** Git, GitHub, Docker
