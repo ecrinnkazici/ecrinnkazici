@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7C5&height=180&section=header&fontSize=40&fontColor=ffffff" width="100%"/>
+</div>
+
 ## Hakkımda 🎀
 
 Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığı ve Anadolu Üniversitesi Yapay Zekâ ve Kodlama öğrencisiyim. Yazılım geliştirme, Python ve yapay zekâ alanlarına ilgi duyuyorum. Sürekli öğrenerek kendimi geliştirmeyi ve yeni projeler üretmeyi hedefliyorum. 🌸
