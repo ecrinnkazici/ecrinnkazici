@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:F4A7C5,100:EADCF8&height=200&section=header&text=Welcome%20to%20my%20world!&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
-
 # 🎀 Ecrin's Profile 🎀
 
 ### ♡ Computer Programming & AI-Assisted Coding Student ♡
