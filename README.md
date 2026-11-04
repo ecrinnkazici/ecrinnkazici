@@ -34,15 +34,6 @@ Merhaba! Ben Ecrin. Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığ�
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-
-## 💌 İletişim
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ecrin-kaz%C4%B1c%C4%B1-5487b9407/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-F4A7C5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 🌸 Thanks for visiting my profile! 🎀
 
 </div>
